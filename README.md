@@ -22,3 +22,9 @@ Calculate square root,logerithmic value and trigonometric values using math modu
 Used to open and learn text file and if file is not found the FileNotFoundError si printed.
 #Task2: Write and Append Data to a File
 Appending the data in text file and check its readability.
+
+#Assignment5:
+#Task 1: Create a Dictionary of Student Marks
+Create a dictionary with student names as keys and marks as values.Get input of name from user and check students marks,if student is not found then print student not found.
+#Task 2: Demonstrate List Slicing
+Create a list .Print first five numbers from list and then print those elements in reverse reverse order using slicing.
