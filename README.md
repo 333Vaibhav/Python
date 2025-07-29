@@ -16,3 +16,9 @@ Calculates the sum of numbers from 1 to 50 using a for loop.
 Define a function which take input from user and calculate its factorial.
 #Task 2: Using the Math Module for Calculations
 Calculate square root,logerithmic value and trigonometric values using math module
+
+#Assignment4:-
+#Task1: Read a File and Handle Errors
+Used to open and learn text file and if file is not found the FileNotFoundError si printed.
+#Task2: Write and Append Data to a File
+Appending the data in text file and check its readability.
